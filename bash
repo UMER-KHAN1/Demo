@@ -1,5 +1,5 @@
 #!/bin/bash
 mysql -uroot -p12345 <<EOL
 USE test
-SHOW tables ; 
+SHOW table; 
 select * from employee;
