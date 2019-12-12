@@ -1,3 +1,4 @@
 #!/bin/bash
 cd /tmp/
 touch test
+chmod 777 test
