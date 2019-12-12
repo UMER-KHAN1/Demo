@@ -2,3 +2,4 @@
 cd /tmp/
 touch test
 chmod 777 test
+pwd
