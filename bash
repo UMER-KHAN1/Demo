@@ -4,3 +4,4 @@ USE test
 SHOW table; 
 select * from Persons;
 EOL
+
