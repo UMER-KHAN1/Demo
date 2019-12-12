@@ -2,4 +2,4 @@
 mysql <<EOL
 USE test
 SHOW table; 
-select * from Persons;
+select * from Persons ;
