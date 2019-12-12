@@ -1,5 +1,5 @@
 #!/bin/bash
-mysql <<EOL
+mysql -uroot -proot <<EOL
 USE test
 SHOW table; 
 select * from Persons;
