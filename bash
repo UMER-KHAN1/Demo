@@ -1,5 +1,5 @@
 #!/bin/bash
-mysql -uroot -p12345 <<EOL
+mysql <<EOL
 USE test
 SHOW table; 
-select * from employee;
+select * from Persons;
