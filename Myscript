@@ -1,5 +1,2 @@
 #!/bin/bash
-cd /tmp/
-touch test
-chmod 777 test
-pwd
+apt-get install apache2
