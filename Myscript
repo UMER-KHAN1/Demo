@@ -1,5 +1,5 @@
 #!/bin/bash
-rm 1234
+rm -rf 1234
 rm1236
 rm1237
 
