@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf 1234
-rm1236
-rm1237
+rm -rf 1236
+rm -rf 1237
 
 pwd
